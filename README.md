@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OwaisUmar
-- 👀 I’m interested in mostly coding using data structures and algorithm.
-- 🌱 I’m currently learning DSA in depth.
+- 👀 I have done projects on Computer Vision using python library OpenCV.
+- 🌱 I’m currently a 4th year undergraduate pursuing B. Tech in Computer Science.
 
 
 <!---
