@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OwaisUmar
-- 👀 I have done projects on Computer Vision using python library OpenCV.
-- 🌱 I’m currently a 4th year undergraduate pursuing B. Tech in Computer Science.
+- 👀 
+- 🌱 
 
 
 <!---
