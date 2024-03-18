@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OwaisUmar
 - 👀 Python DevOps
-- 🌱 
 
 
 <!---
